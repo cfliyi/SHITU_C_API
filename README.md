@@ -194,3 +194,5 @@
   *   **编译版本**: 请确保您的应用程序和 `shitu_c_api.dll` 都是用相同的平台架构（**x64**）和配置（**Release**）编译的，以避免兼容性问题。
  
   邮箱地址：cfliyi@outlook.com
+
+  [![Hits](https://hits.sh/github.com/cfliyi/SHITU_C_API.svg)](https://hits.sh/github.com/cfliyi/SHITU_C_API/)
