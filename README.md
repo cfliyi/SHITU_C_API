@@ -134,8 +134,8 @@
   ## **10. 示例代码 (`ShiTuApiTestApp` - C#)**
 
   我们提供了一个功能完备的C# WinForms测试程序，它是学习和使用本API的最佳起点。
-  
-  示例模型及动态库文件DLL：https://pan.baidu.com/s/1A-CwYU_cMlPBNygekEYg2Q?pwd=5574 提取码: 5574
+
+  示例程序、模型及动态库文件链接: https://pan.baidu.com/s/1JAtsiL5Zh6RSxRrxcp9qAw?pwd=5574 提取码: 5574
 
   **核心调用逻辑 (简化版):**
 
