@@ -189,3 +189,5 @@ finally
 *   **Configuration File**: The API's behavior is highly dependent on `config.yaml`. If initialization fails, first check that the file path is correct, the YAML syntax is valid, and all parameters (especially model paths, dimensions, and preprocessing steps) match your models and data.
 *   **UTF-8 Encoding**: All string interactions (paths, labels) in the API use UTF-8 encoding. Ensure your calling code and environment correctly handle UTF-8 strings to avoid garbled text issues.
 *   **Build Configuration**: Ensure that your application and the `shitu_c_api.dll` are both compiled for the same platform architecture (**x64**) and configuration (**Release**) to avoid compatibility issues.
+
+E-mail address: cfliyi@outlook.com
