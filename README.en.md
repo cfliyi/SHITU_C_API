@@ -133,7 +133,7 @@ The API's behavior is primarily controlled by the `config.yaml` file. **All path
 
 We provide a comprehensive C# WinForms test application, which serves as the best starting point for learning how to use the API.
 
-Example model and dynamic library file DLL: https://pan.baidu.com/s/1A-CwYU_cMlPBNygekEYg2Q?pwd=5574 提取码: 5574
+Example programs, models, and dynamic library file links: https://pan.baidu.com/s/1JAtsiL5Zh6RSxRrxcp9qAw?pwd=5574 Extraction code: 5574
 
 **Core Invocation Logic (Simplified):**
 ```csharp
