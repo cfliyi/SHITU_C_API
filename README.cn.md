@@ -135,6 +135,8 @@
 
   我们提供了一个功能完备的C# WinForms测试程序，它是学习和使用本API的最佳起点。
 
+  示例模型及动态库文件DLL：https://pan.baidu.com/s/1A-CwYU_cMlPBNygekEYg2Q?pwd=5574 提取码: 5574
+
   **核心调用逻辑 (简化版):**
   ```csharp
   // 命名空间引用
