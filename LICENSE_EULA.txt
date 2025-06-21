@@ -1,0 +1,100 @@
+======================================================================
+
+End-User License Agreement (EULA) for ShiTu C API Library (shitu_c_api.dll)
+
+Version: 1.0
+Effective Date: 2025-06-22
+
+======================================================================
+
+IMPORTANT – READ CAREFULLY: This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity, hereinafter "Licensee") and Li Yi (hereinafter "Licensor") for the ShiTu C API software library, which includes the dynamic-link library `shitu_c_api.dll`, associated media, printed materials, and "online" or electronic documentation (collectively, the "Software").
+
+The Software is a proprietary product of Licensor, developed independently. Specific functionalities within the Software, such as image processing, machine learning inference, and vector search, may leverage algorithms and techniques commonly found in open-source projects like OpenCV, Paddle Inference, and FAISS, but the Software itself is a distinct and original work.
+
+BY INSTALLING, COPYING, DOWNLOADING, ACCESSING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. GRANT OF LICENSE
+
+Subject to the terms and conditions of this EULA and payment of any applicable license fees, Licensor grants Licensee a non-exclusive, non-transferable, limited license to use the Software solely for the purposes described in the accompanying documentation and as permitted herein.
+
+*   1.1 Trial License: If the Software is provided on a trial basis, Licensor grants Licensee a limited, non-exclusive, non-transferable license to install and use the Software for a limited evaluation period as specified by Licensor (the "Trial Period"). During the Trial Period, the Software is provided "AS-IS" without warranty of any kind. Upon expiration of the Trial Period, Licensee must either (a) purchase a commercial license to continue using the Software or (b) cease all use of the Software and uninstall it.
+*   1.2 Commercial License: Upon payment of the applicable license fee, Licensor grants Licensee a license to use the Software according to the specific terms of the purchased license tier (e.g., per-seat, per-application, per-server, runtime royalty, etc., as defined in the separate purchase agreement or order form). The scope of use, including the number of permitted installations, users, or deployments, will be governed by the terms of the specific license purchased.
+
+2. RESTRICTIONS ON USE
+
+Licensee shall not, and shall not permit others to:
+
+*   2.1 Reverse Engineering: Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code or underlying ideas or algorithms of the Software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+*   2.2 Modification: Modify, adapt, translate, or create derivative works based on the Software.
+*   2.3 Sublicensing and Distribution: Sublicense, rent, lease, lend, sell, resell, distribute, or otherwise transfer the Software or any rights granted hereunder to any third party, except as expressly permitted under the terms of a specific distribution license, if obtained from Licensor.
+*   2.4 Circumvention and License Tracking: The Software may require activation or a license key and may include mechanisms for license tracking and compliance verification. Licensee agrees not to bypass, alter, disable, remove, or otherwise interfere with such activation, license key, or tracking mechanisms, nor attempt to use the Software with an invalid, expired, or unauthorized license.
+*   2.5 Benchmarking: Publicly disclose or disseminate any benchmark test or performance results of the Software without Licensor's prior written consent.
+*   2.6 Unlawful Use: Use the Software for any unlawful purpose or in any manner that violates any applicable local, state, national, or international law or regulation.
+*   2.7 Removal of Notices: Remove, alter, or obscure any copyright, trademark, or other proprietary rights notices on or in the Software.
+
+3. INTELLECTUAL PROPERTY RIGHTS
+
+The Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The Software is licensed, not sold. Licensor owns and retains all right, title, and interest in and to the Software, including all copyrights, patents, trade secret rights, trademarks, and other intellectual property rights therein. Licensee's rights to use the Software are limited to those expressly granted in this EULA. All rights not expressly granted are reserved by Licensor.
+
+4. TERM AND TERMINATION
+
+*   4.1 Trial License Term: The term of a Trial License shall be the specified Trial Period. Licensor reserves the right to terminate the Trial License at any time for any reason.
+*   4.2 Commercial License Term: The term of a Commercial License will be as specified in the applicable purchase agreement or order form (e.g., perpetual, subscription-based).
+*   4.3 Termination: Without prejudice to any other rights, Licensor may terminate this EULA if Licensee fails to comply with the terms and conditions of this EULA. In such an event, Licensee must cease all use of the Software and destroy all copies of the Software and all of its component parts. Provisions of this EULA which by their nature should survive termination shall survive, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+
+5. WARRANTY DISCLAIMER
+
+EXCEPT AS EXPRESSLY PROVIDED IN A SEPARATE WRITTEN AGREEMENT BETWEEN LICENSEE AND LICENSOR, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH LICENSEE. SHOULD THE SOFTWARE PROVE DEFECTIVE, LICENSEE (AND NOT LICENSOR OR ITS SUPPLIERS) ASSUMES THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION.
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS ON APPLICABLE STATUTORY RIGHTS OF A CONSUMER, SO THE ABOVE EXCLUSION AND LIMITATIONS MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, LICENSOR'S WARRANTIES SHALL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+LICENSOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+6. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+IN ANY CASE, LICENSOR'S ENTIRE LIABILITY UNDER ANY PROVISION OF THIS EULA SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY LICENSEE FOR THE SOFTWARE LICENSE. IF THE SOFTWARE WAS PROVIDED FREE OF CHARGE (E.G., UNDER A TRIAL LICENSE), LICENSOR'S ENTIRE LIABILITY SHALL BE NIL. THIS LIMITATION OF LIABILITY WILL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM LICENSOR'S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH LIMITATION.
+
+7. GOVERNING LAW AND JURISDICTION
+
+This EULA and any dispute arising out of or in connection with it will be governed by and construed in accordance with the laws of the People's Republic of China, without regard to its conflict of laws principles.
+
+The parties agree that the United Nations Convention on Contracts for the International Sale of Goods (CISG) will not apply to this EULA.
+
+Any legal action or proceeding arising under this EULA will be brought exclusively in the courts located in Changsha City, Hunan Province, China, and the parties hereby irrevocably consent to the personal jurisdiction and venue therein. Notwithstanding the foregoing, if mandatory consumer protection laws in the Licensee's country of residence provide the Licensee with the right to bring a claim in the courts of that country, then nothing in this EULA shall be deemed to limit such rights.
+
+8. GENERAL PROVISIONS
+
+*   8.1 Entire Agreement: This EULA (including any addendum or amendment to this EULA which is included with the Software) constitutes the entire agreement between Licensee and Licensor relating to the Software and supersedes all prior or contemporaneous oral or written communications, proposals, and representations with respect to the Software or any other subject matter covered by this EULA.
+*   8.2 Severability: If any provision of this EULA is held to be void, invalid, unenforceable, or illegal, the other provisions shall continue in full force and effect.
+*   8.3 No Waiver: No waiver of any breach of any provision of this EULA shall constitute a waiver of any prior, concurrent, or subsequent breach of the same or any other provisions hereof, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.
+*   8.4 Controlling Language: This EULA is prepared and executed in the English language. If this EULA is translated into any other language for convenience, the English language version shall prevail in the event of any conflict or discrepancy in interpretation.
+
+9. EXPORT CONTROL AND INTERNATIONAL USE
+
+Licensee agrees to comply fully with all applicable export and import laws and regulations in its jurisdiction of use and in the jurisdiction of the Licensor, including but not limited to those of the United States, the European Union, and the People's Republic of China. Licensee represents and warrants that it is not located in, under the control of, or a national or resident of any country subject to applicable trade sanctions or embargoes. Licensor reserves the right to suspend or terminate licenses if international compliance violations are discovered.
+
+10. THIRD-PARTY COMPONENTS AND OPEN SOURCE
+
+The Software may incorporate or utilize functionalities or algorithms inspired by or similar to those found in third-party libraries or open source components, such as OpenCV, Paddle Inference, and FAISS. However, the Software itself is an original work of the Licensor, and its core implementation is proprietary. Any such third-party components, if directly included and redistributed, would be provided under their respective licenses, and those licenses would take precedence over this EULA only to the extent explicitly required by such licenses. Licensor does not claim ownership of any such third-party open-source components themselves, but owns the copyright to the specific integration and original code constituting the Software.
+
+11. LICENSE KEY CONFIDENTIALITY
+
+The Software may include a unique License ID or activation key issued to Licensee upon purchase. This key constitutes confidential information of the Licensor. Licensee must keep this key confidential and use it only in accordance with the terms of this EULA. Unauthorized disclosure or distribution of the license key will be considered a material breach of this EULA.
+
+12. CONTACT INFORMATION
+
+If you have any questions regarding this EULA, or if you wish to request any information from Licensor, please contact:
+
+Name: Li Yi
+Address: Changsha, Hunan Province, China
+Email: cfliyi@outlook.com
+
+Please note that support or licensing inquiries must be submitted in writing to the email address above. No verbal or informal communication shall modify the terms of this EULA.
+
+---
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS EULA, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
