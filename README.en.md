@@ -133,6 +133,8 @@
 
   ## **10. Sample Code (`ShiTuApiTestApp` - C#)**
 
+[![Watch the video](https://img.youtube.com/vi/jstrxW2W1GY/0.jpg)](https://youtu.be/jstrxW2W1GY?si=1h6mRwPxhz7GzswK)
+
   We provide a fully-featured C# WinForms test application, which is the best starting point for learning and using this API.
 
   Link for the sample program, models, and dynamic library files:
