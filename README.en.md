@@ -135,7 +135,7 @@
 
   We provide a fully-featured C# WinForms test application, which is the best starting point for learning and using this API.
 
-  Link for the sample program, models, and dynamic library files: https://pan.baidu.com/s/1JAtsiL5Zh6RSxRrxcp9qAw?pwd=5574 Access Code: 5574
+  Link for the sample program, models, and dynamic library files: https://www.dropbox.com/scl/fi/os3e7da5g5iog66300pyf/DLL.zip?rlkey=60uyyyvicww3cfa3mzz79de0n&st=m3g4p5dv&dl=0
 
   **Core Invocation Logic (Simplified):**
 
