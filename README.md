@@ -132,6 +132,9 @@
 
   ## **10. 示例代码 (`ShiTuApiTestApp` - C#)**
 
+  [![Watch the video](https://img.youtube.com/vi/jstrxW2W1GY/0.jpg)](https://youtu.be/jstrxW2W1GY?si=1h6mRwPxhz7GzswK)
+
+
   我们提供了一个功能完备的C# WinForms测试程序，它是学习和使用本API的最佳起点。
 
   示例程序、模型及动态库文件链接:  
