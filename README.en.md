@@ -135,7 +135,15 @@
 
   We provide a fully-featured C# WinForms test application, which is the best starting point for learning and using this API.
 
-  Link for the sample program, models, and dynamic library files: https://www.dropbox.com/scl/fi/os3e7da5g5iog66300pyf/DLL.zip?rlkey=60uyyyvicww3cfa3mzz79de0n&st=m3g4p5dv&dl=0
+  Link for the sample program, models, and dynamic library files:
+  
+  1、https://pan.baidu.com/s/1JAtsiL5Zh6RSxRrxcp9qAw?pwd=5574 提取码: 5574
+  
+  2、https://secure.ue.internxt.com/d/sh/file/9e59d447-e1b5-4e5d-87fb-c3ccd8dca37b/fb906ac390b384e4fe90c84ee14e06f7deaf33c0e84e80507d03cd7b95846716
+  
+  3、https://u.pcloud.link/publink/show?code=XZH9Mu5ZwUlEasu9TcpaaAD3cp0CwmObVjoX
+
+  4、https://www.dropbox.com/scl/fi/os3e7da5g5iog66300pyf/DLL.zip?rlkey=60uyyyvicww3cfa3mzz79de0n&st=m3g4p5dv&dl=0
 
   **Core Invocation Logic (Simplified):**
 
