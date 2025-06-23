@@ -142,6 +142,10 @@
   
   3、https://u.pcloud.link/publink/show?code=XZH9Mu5ZwUlEasu9TcpaaAD3cp0CwmObVjoX
 
+  4、https://www.dropbox.com/scl/fi/os3e7da5g5iog66300pyf/DLL.zip?rlkey=60uyyyvicww3cfa3mzz79de0n&st=m3g4p5dv&dl=0
+
+Core Invocation Logic (Simplified):
+
   **核心调用逻辑 (简化版):**
 
   ```csharp
